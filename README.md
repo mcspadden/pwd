@@ -27,6 +27,11 @@ Type in `y` to make your password _all_ upper case or `n` to make your password 
 
 Your genererated password will now be printed. 
 
+# Utilized Words
+- The wordlist contains 1332 words.
+- All words are between 4 and 7 letters long.
+- No word in the list is a prefix of another word (e.g. watch, watcher).
+
 # Entropy
 Information regarding entropy can be found [here](https://en.wikipedia.org/wiki/Entropy_(information_theory "Wikipedia: Entropy").  
 
