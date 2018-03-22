@@ -39,7 +39,9 @@ You can calcuate your entropy [here](http://www.shannonentropy.netmark.pl/ "Shan
 password then go check your entropy _anywhere_ and continue utilizing that password. Generate a password with `x` number of words then
 test the entropy. If you are satisfied, generate a new password with `x` the same as last time. 
 
-# Quantum Effect
+# Post-quantum cryptography
+These generated passwords will most likely not survice post-quantum cryptography. You can go [here](https://en.wikipedia.org/wiki/Post-quantum_cryptography "Wikipedia: Post-quantum cryptography") to read a bit more about it and I am looking at resolving this in v2.0. 
+
 # License
 
 I'm inspired by the world; so anything **I did** here, I want the world to be freely inspired by as well. For anything I did not create here, refer to their respective license for use.
